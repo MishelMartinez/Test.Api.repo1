@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi1", "WebApi1\WebApi1.csproj", "{651A0AF4-0649-4307-92DA-822FC0D4B62C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SADD", "SADD\SADD.csproj", "{863AEF0A-4D6D-4EE4-814C-943A4A36A817}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{651A0AF4-0649-4307-92DA-822FC0D4B62C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{651A0AF4-0649-4307-92DA-822FC0D4B62C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{651A0AF4-0649-4307-92DA-822FC0D4B62C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{651A0AF4-0649-4307-92DA-822FC0D4B62C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{863AEF0A-4D6D-4EE4-814C-943A4A36A817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{863AEF0A-4D6D-4EE4-814C-943A4A36A817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{863AEF0A-4D6D-4EE4-814C-943A4A36A817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{863AEF0A-4D6D-4EE4-814C-943A4A36A817}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DA4E973-D2C2-49B7-B6CB-B73EC5474C74}
+	EndGlobalSection
+EndGlobal
